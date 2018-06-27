@@ -1,2 +1,2 @@
-# jenkins_drops
-drops jenkins file
+# sample_drops
+drops sample file
